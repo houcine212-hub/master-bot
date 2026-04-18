@@ -1,0 +1,24 @@
+{
+  "name": "master_card_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^17.4.2",
+    "groq-sdk": "^1.1.2",
+    "jimp": "^0.22.12",
+    "jsqr": "^1.4.0",
+    "mysql2": "^3.22.0",
+    "node-telegram-bot-api": "^0.67.0",
+    "openai": "^6.34.0",
+    "qrcode": "^1.5.4",
+    "qrcode-reader": "^1.0.4"
+  }
+}
